@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "this is ecommerce project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berekettussa123/ecommerce.git"
+  },
+  "author": "Bereket Tusa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berekettussa123/ecommerce/issues"
+  },
+  "homepage": "https://github.com/berekettussa123/ecommerce#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
